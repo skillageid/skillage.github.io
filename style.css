@@ -1,0 +1,89 @@
+body {
+    font-family: 'Poppins', sans-serif;
+    background-color: #fff;
+}
+
+.nav-item .nav-link {
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+.nav-item .nav-linke {
+    margin-left: 10px;
+    margin-right: 10px;
+    background-color: #37806B;
+    border-radius: 10px;
+    text-decoration: none;
+    padding: 10px;
+    color: #fff;
+}
+
+.header {
+    margin-top: 90px;
+}
+
+.header-kiri h1 {
+    font-weight: 600;
+    width: 490px;
+    font-size: 72px;
+}
+
+.header-kanan img {
+    height: 480px;
+    width: 602.2454833984375px;
+    left: 770px;
+    top: 212px;
+    border-radius: 12px;
+
+}
+
+.service-page {
+    margin-top: 100px;
+}
+.service-page h4 {
+    font-size: 20px;
+    font-weight: 600;
+    font-style: normal;
+    color: #646464;
+}
+
+.service-page h1 {
+    color: #212121;
+    font-size: 48px;
+    font-weight: 500;
+    font-family: 'Poppins';
+    margin-top: 30px;
+}
+
+.infrastructure-coloms {
+    background-color: #37806B;
+    padding: 20px;
+    color: #FFF;
+    box-shadow: 0px 8px 20px rgba(0, 0, 0, 0.14);
+    border-radius: 60px 0px;
+}
+
+.quality-coloms {
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0px 8px 20px rgba(0, 0, 0, 0.14);
+    border-radius: 60px 0px;
+}
+
+.packing-coloms {
+    background-color: #fff;
+    padding: 20px;
+    box-shadow: 0px 8px 20px rgba(0, 0, 0, 0.14);
+    border-radius: 60px 0px;
+}
+
+.infrastructure-coloms .title {
+    margin-top: 8px;
+}
+
+.footer {
+    margin: auto;
+    width: 50%;
+    padding: 10px;
+}
+
